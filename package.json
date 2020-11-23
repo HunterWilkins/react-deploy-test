@@ -1,6 +1,6 @@
 {
   "name": "react-deploy-test",
-  "home": "https://hunterwilkins.github.io/react-deploy-test/",
+  "homepage": "https://hunterwilkins.github.io/react-deploy-test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
